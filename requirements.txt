@@ -1,0 +1,8 @@
+tensorflow
+gradio
+numpy
+matplotlib
+pillow
+scikit-learn
+opencv-python
+pandas
